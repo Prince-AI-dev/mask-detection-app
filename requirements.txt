@@ -1,3 +1,4 @@
-flask
+streamlit
 opencv-python-headless
 numpy
+tensorflow-cpu
